@@ -1,0 +1,7 @@
+.about-yourself {
+    display: flex;
+    
+    & article {
+       width: calc((100%)/2);
+    }
+}

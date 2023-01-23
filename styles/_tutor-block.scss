@@ -1,0 +1,8 @@
+.tutor-block {
+    display: flex;
+    justify-content: space-around;
+   
+    & article {
+        width: calc((100%)/2);
+    }
+}
